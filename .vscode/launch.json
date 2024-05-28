@@ -8,7 +8,7 @@
             "type": "java",
             "name": "Current File",
             "request": "launch",
-            "mainClass": "HolaMundoFX",
+            "mainClass": "colorquest",
             "vmArgs": "--module-path lib/ --add-modules javafx.controls",
             "args": "",
         }

@@ -4,7 +4,7 @@ import javafx.scene.control.Label;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 
-public class HolaMundoFX extends Application {
+public class colorquest extends Application {
     @Override
     public void start(Stage primaryStage) {
         // Crear un Label (etiqueta) con el texto "Hola, Mundo!"
@@ -18,7 +18,7 @@ public class HolaMundoFX extends Application {
         Scene scene = new Scene(root, 300, 200);
 
         // Establecer el título de la ventana
-        primaryStage.setTitle("Hola Mundo en JavaFX");
+        primaryStage.setTitle("colorquest");
 
         // Establecer la escena en el escenario principal
         primaryStage.setScene(scene);
